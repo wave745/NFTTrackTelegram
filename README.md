@@ -35,5 +35,4 @@ A Telegram bot that tracks and alerts users about NFT transactions across multip
 
 ### Environment Variables
 
-Set the following environment variables:
 
